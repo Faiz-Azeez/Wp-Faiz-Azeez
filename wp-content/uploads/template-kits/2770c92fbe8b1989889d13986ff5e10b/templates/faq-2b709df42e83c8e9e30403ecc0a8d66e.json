@@ -1,0 +1,783 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "section",
+    "metadata": {
+        "template_type": "section",
+        "elementor_pro_required": false,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "1e82504",
+            "settings": {
+                "gap": "no",
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 50
+                },
+                "column_position": "bottom",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/wp.envatoextensions.com\/kit-60\/wp-content\/uploads\/sites\/63\/2018\/08\/1516329.jpg",
+                    "id": 455
+                },
+                "background_position": "bottom center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#000000",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.29999999999999999
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "50",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "html_tag": "section",
+                "background_color": "#FFFFFF"
+            },
+            "elements": [
+                {
+                    "id": "61ffcb01",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "645f72a",
+                            "settings": {
+                                "title": "F.A.Q.",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#ffffff",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Abel",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 96
+                                },
+                                "text_shadow_text_shadow_type": "yes",
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 106
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 80
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 60
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "154dc8d7",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": "2",
+                    "bottom": "5",
+                    "left": "2",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "%",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "structure": "20",
+                "html_tag": "section",
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "3b9bab9c",
+                    "settings": {
+                        "_column_size": 50,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size": null,
+                        "content_position": "top",
+                        "padding": {
+                            "unit": "%",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "308c6634",
+                            "settings": {
+                                "title": "Class aptent taciti sociosqu ad litora torquent per conubia nostra?",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 22
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "typography_font_weight": "600",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "60cb49c7",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra convallis tempus. Sed id metus at arcu congue pharetra. Praesent felis libero, maximus eu dui in, finibus vulputate risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer vestibulum nisl at lorem interdum tempus. Nullam sagittis eleifend mauris. Sed ac justo rutrum nisl gravida gravida vel vitae massa.<\/p>",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "f5c99d2",
+                    "settings": {
+                        "_column_size": 50,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size": null,
+                        "content_position": "top",
+                        "padding": {
+                            "unit": "%",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2a150be4",
+                            "settings": {
+                                "title": "Aptent taciti sociosqu ad litora torquent?",
+                                "header_size": "p",
+                                "align": "left",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 22
+                                },
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "text_shadow_text_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 15,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6b67dd4",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra convallis tempus. Sed id metus at arcu congue pharetra. Praesent felis libero, maximus eu dui in, finibus vulputate risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer vestibulum nisl at lorem interdum tempus. Nullam sagittis eleifend mauris. Sed ac justo rutrum nisl gravida gravida vel vitae massa.<\/p>",
+                                "align": "left",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "79a472f2",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "%",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "html_tag": "section",
+                "background_background": "classic",
+                "background_color": "#FFFFFF"
+            },
+            "elements": [
+                {
+                    "id": "510a776",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "409774d4",
+                            "settings": {
+                                "title": "Main Questions",
+                                "align": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Abel",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 60
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "270c8b9b",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "What is a difference between you and others?",
+                                        "tab_content": "<p>We are new Coworking Service Space, which is located in downtown, few minutes walk away from subway station. Etiam rhoncus vel enim vel pretium. Proin a augue ut tellus fermentum consectetur. Curabitur pharetra nisi at velit euismod, in congue nunc dapibus. In molestie feugiat sem at luctus. Phasellus in risus erat. Donec convallis a purus non ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut sem turpis. Donec ac est vitae elit iaculis malesuada. Donec faucibus dui ligula, non interdum magna.<\/p>",
+                                        "_id": "4567c92"
+                                    },
+                                    {
+                                        "tab_title": "Where are you located?",
+                                        "tab_content": "<p>We located in downtown, few minutes walk away from subway station. Etiam rhoncus vel enim vel pretium. Proin a augue ut tellus fermentum consectetur. Curabitur pharetra nisi at velit euismod, in congue nunc dapibus. In molestie feugiat sem at luctus. Phasellus in risus erat. Donec convallis a purus non ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut sem turpis.<\/p>",
+                                        "_id": "2bb4c57"
+                                    },
+                                    {
+                                        "tab_title": "When are you open?",
+                                        "tab_content": "<p>We are working everyday in any hour. We are open for you 24\/7.\u00a0Pellentesque euismod orci a ante porta sodales. Maecenas mollis tellus nibh, in consectetur massa elementum vitae. Etiam non finibus orci. Quisque egestas orci sed vulputate varius. Nullam ac gravida metus, eu rhoncus tellus.<\/p>",
+                                        "_id": "6a2461e"
+                                    },
+                                    {
+                                        "tab_title": "Do you have mail services?",
+                                        "tab_content": "<p>Yes, we have.\u00a0Nulla et odio aliquet, imperdiet sem vel, scelerisque sapien. Praesent metus mauris, congue quis aliquam quis, fermentum nec tellus. Pellentesque consequat venenatis gravida. Suspendisse at elit suscipit, tristique elit ut, convallis sapien. Maecenas blandit eget sem sed tempor.<\/p>",
+                                        "_id": "b490a44"
+                                    },
+                                    {
+                                        "tab_title": "Is your coffe and tea organic?",
+                                        "tab_content": "<p>Yes, our coffee and tea are organic and meet all your requirements.\u00a0\u00a0Vivamus blandit tortor eu ex commodo, ullamcorper ornare tellus vehicula. Pellentesque placerat sem a interdum mollis. Morbi auctor quam in gravida congue. Aliquam mollis scelerisque diam, quis hendrerit lectus eleifend eu. Duis at arcu eu eros semper dignissim vitae sed turpis.<\/p>",
+                                        "_id": "0a8b90d"
+                                    },
+                                    {
+                                        "tab_title": "What is a speed of your internet channel?",
+                                        "tab_content": "<p>We have fastest internet provider you have ever seen.\u00a0Maecenas mollis tellus nibh, in consectetur massa elementum vitae. Etiam non finibus orci. Quisque egestas orci sed vulputate varius. Nullam ac gravida metus, eu rhoncus tellus. Aenean nibh justo, gravida non justo a, fermentum mi.<\/p>",
+                                        "_id": "7c912b0"
+                                    }
+                                ],
+                                "icon": "fa fa-plus-square-o",
+                                "icon_active": "fa fa-minus-square-o",
+                                "border_width": {
+                                    "unit": "px",
+                                    "size": 3
+                                },
+                                "border_color": "rgba(0,0,0,0.1)",
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "title_background": "#00bcd4",
+                                "title_color": "#ffffff",
+                                "tab_active_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Abel",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "title_typography_text_transform": "uppercase",
+                                "title_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.14999999999999999
+                                },
+                                "icon_color": "#ffffff",
+                                "icon_active_color": "#ffffff",
+                                "icon_space": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "content_background_color": "#fafafa",
+                                "content_color": "#424242",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "toggle",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "161b0cfd",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "em",
+                    "top": "2",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2",
+                    "isLinked": true
+                },
+                "padding_tablet": {
+                    "unit": "%",
+                    "top": "5",
+                    "right": "5",
+                    "bottom": "5",
+                    "left": "5",
+                    "isLinked": true
+                },
+                "html_tag": "section",
+                "background_background": "classic",
+                "background_color": "#FFFFFF"
+            },
+            "elements": [
+                {
+                    "id": "83c2b97",
+                    "settings": {
+                        "_column_size": 100,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "30",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "11ad9927",
+                            "settings": {
+                                "title": "Public Questions",
+                                "align": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Abel",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 60
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 40
+                                },
+                                "typography_font_weight": "bold",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 70
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 50
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3207f490",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "Lorem ipsum dolor?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra convallis tempus. Sed id metus at arcu congue pharetra. Praesent felis libero, maximus eu dui in, finibus vulputate risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer vestibulum nisl at lorem interdum tempus. Nullam sagittis eleifend mauris. Sed ac justo rutrum nisl gravida gravida vel vitae massa.<\/p>",
+                                        "_id": "4567c92"
+                                    },
+                                    {
+                                        "tab_title": "Quisque varius justo?",
+                                        "tab_content": "<p>Vitae nisi ornare, eu fringilla libero commodo. Quisque vehicula mi nec neque tempus, ut molestie risus euismod. Phasellus nisi purus, pellentesque in diam eu, maximus lacinia quam. Fusce nec aliquam leo.\u00a0 Praesent lobortis neque pulvinar ornare egestas. Nunc nisl dolor, luctus quis elit at, volutpat dapibus diam. Fusce sit amet risus rhoncus, euismod arcu at, ullamcorper ex. Ut sit amet purus nunc. Duis tristique malesuada blandit.<\/p>",
+                                        "_id": "2bb4c57"
+                                    },
+                                    {
+                                        "tab_title": "Vestibulum bibendum?",
+                                        "tab_content": "<p>Leo in ex lobortis, a feugiat nisi tempus. In hac habitasse platea dictumst. Pellentesque sed dui vitae eros rutrum laoreet vitae ut ligula. Proin at porttitor dolor. In hac habitasse platea dictumst. Duis lectus ligula, congue tempus porttitor eget, faucibus quis ipsum. Sed ultricies ex id volutpat cursus. Nulla tincidunt ipsum ac magna tincidunt, et efficitur lorem elementum. Nullam ac nulla arcu. Donec pulvinar lectus ac eros porta.<\/p>",
+                                        "_id": "6a2461e"
+                                    },
+                                    {
+                                        "tab_title": "Leo in ex lobortis, a feugiat nisi tempus?",
+                                        "tab_content": "<p>In hac habitasse platea dictumst. Pellentesque sed dui vitae eros rutrum laoreet vitae ut ligula. Proin at porttitor dolor. In hac habitasse platea dictumst. Duis lectus ligula, congue tempus porttitor eget, faucibus quis ipsum. Sed ultricies ex id volutpat cursus. Nulla tincidunt ipsum ac magna tincidunt, et efficitur lorem elementum. Nullam ac nulla arcu. Donec pulvinar lectus ac eros porta, quis rhoncus odio laoreet.<\/p>",
+                                        "_id": "b490a44"
+                                    },
+                                    {
+                                        "tab_title": "Curabitur eu lorem lobortis?",
+                                        "tab_content": "<p>Leo facilisis euismod. Vestibulum vitae ligula posuere odio pulvinar mattis sed ut dolor. Nulla consectetur feugiat pretium. Maecenas posuere dignissim massa in placerat. In tempus malesuada est quis laoreet. Praesent ultrices, erat ac blandit ultrices, ipsum risus tempus felis, eu rhoncus purus elit nec felis. Quisque pharetra, velit eget accumsan pharetra, arcu mauris convallis urna, a rutrum metus dui non tortor.<\/p>",
+                                        "_id": "0a8b90d"
+                                    },
+                                    {
+                                        "tab_title": "Leo facilisis euismod?",
+                                        "tab_content": "<p>Vestibulum vitae ligula posuere odio pulvinar mattis sed ut dolor. Nulla consectetur feugiat pretium. Maecenas posuere dignissim massa in placerat. In tempus malesuada est quis laoreet. Praesent ultrices, erat ac blandit ultrices, ipsum risus tempus felis, eu rhoncus purus elit nec felis. Quisque pharetra, velit eget accumsan pharetra, arcu mauris convallis urna, a rutrum metus dui non tortor.\u00a0<\/p>",
+                                        "_id": "7c912b0"
+                                    }
+                                ],
+                                "icon": "fa fa-plus-square-o",
+                                "icon_active": "fa fa-minus-square-o",
+                                "border_width": {
+                                    "unit": "px",
+                                    "size": 3
+                                },
+                                "border_color": "rgba(0,0,0,0.1)",
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "title_background": "#00bcd4",
+                                "title_color": "#ffffff",
+                                "tab_active_color": "#ffffff",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Abel",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "title_typography_text_transform": "uppercase",
+                                "title_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 20
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.14999999999999999
+                                },
+                                "icon_color": "#ffffff",
+                                "icon_active_color": "#ffffff",
+                                "icon_space": {
+                                    "unit": "px",
+                                    "size": 10
+                                },
+                                "content_background_color": "#fafafa",
+                                "content_color": "#424242",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Open Sans",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16
+                                },
+                                "content_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 28
+                                },
+                                "content_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "toggle",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

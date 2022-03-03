@@ -1,0 +1,1 @@
+If version 1.6 does not work, try installing the previous version
